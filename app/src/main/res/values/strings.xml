@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">kadai3</string>
+    <string name="seibetu">性別</string>
+    <string name="taijyuu">体重</string>
+    <string name="nennrei">年齢</string>
+    <string name="rebel">身体活動レベル</string>
+    <string name="kettei">決定</string>
+    <string name="blunk" />
+    <string name="back">戻る</string>
+    <string name="keisan">計算</string>
+    <string name="no">いいえ</string>
+    <string name="iie">いいえ</string>
+    <string name="hai">はい</string>
+    <string name="kakunin">以下の内容でよろしいですか？</string>
+    <string name="top">トップに戻る</string>
+    <string name="energy">あなたの推定エネルギー必要量は･･･</string>
+    <string name="tanni1">kg</string>
+    <string name="tanni2">歳</string>
+</resources>
